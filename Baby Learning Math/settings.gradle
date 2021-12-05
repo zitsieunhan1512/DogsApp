@@ -1,0 +1,2 @@
+rootProject.name = "Baby Study Math"
+include ':app'
