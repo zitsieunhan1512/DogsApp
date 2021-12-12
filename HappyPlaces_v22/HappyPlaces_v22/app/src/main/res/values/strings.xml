@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Happy Places</string>
-
-    <string name="google_maps_api_key">AIzaSyA-Ew-EcB5r16uPcPLsva01uj3yrvPeJTw</string>
+    <string name="app_name">Sweet Places</string>
+<!--    AIzaSyA-Ew-EcB5r16uPcPLsva01uj3yrvPeJTw-->
+    <string name="google_maps_api_key">AIzaSyBr7WYgCTw8Ql721pd06nHYExexDQOjmQo</string>
 
     <string name="edit_text_hint_title">Title</string>
     <string name="edit_text_hint_description">Description</string>
@@ -10,7 +10,7 @@
     <string name="text_add_image">ADD IMAGE</string>
     <string name="btn_text_save">SAVE</string>
 
-    <string name="note_text_no_happy_places_found_yet_kindly_add_one">No Happy Places Found Yet. Kindly add one.</string>
+    <string name="note_text_no_happy_places_found_yet_kindly_add_one">No Sweet Places Found Yet. Kindly add one.</string>
     <string name="image_content_description">image</string>
 
     <string name="btn_text_view_on_map">VIEW ON MAP</string>
