@@ -7,7 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.Navigation
 import com.example.dogsapp.R
-import kotlinx.android.synthetic.main.fragment_list.*
 
 class ListFragment : Fragment() {
 
